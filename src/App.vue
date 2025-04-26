@@ -608,6 +608,9 @@ export default {
 .pixel-text {
   text-shadow: 2px 2px #000;
   font-size: 15px;
+  font-family:
+    'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+    sans-serif;
 }
 
 /* Responsive Design */
